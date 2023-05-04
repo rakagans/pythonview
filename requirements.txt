@@ -1,0 +1,6 @@
+tls_client
+pillow
+requests
+colorama
+bs4
+pystyle
